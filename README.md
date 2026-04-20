@@ -3,11 +3,16 @@
 
 
 <p align="center">
-
   <img src="cisco/images/topology.png" alt="Network Topology" width="800"/>
-
 </p>
 
+<p align="center">
+  <img src="cisco/images/kz-map.png" alt="Network Topology" width="800"/>
+</p>
+
+<p align="center">
+  <img src="cisco/images/map.png" alt="Network Topology" width="800"/>
+</p>
 This repository documents a Cisco Packet Tracer network project for a business center with two geographically separated branches:
 
 - **Main office:** Almaty
