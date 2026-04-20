@@ -4,7 +4,7 @@
 
 <p align="center">
 
-  <img src="./images/topology.png" alt="Network Topology" width="800"/>
+  <img src="cisco/images/topology.png" alt="Network Topology" width="800"/>
 
 </p>
 
